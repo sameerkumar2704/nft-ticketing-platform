@@ -1,0 +1,25 @@
+{
+  "name": "nft-ticketing-platform",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@openzeppelin/contracts": "^4.9.6",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.22.12",
+    "solidity-coverage": "^0.8.13"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-verify": "^2.0.11",
+    "@openzeppelin/contracts": "^5.0.2"
+  }
+}
